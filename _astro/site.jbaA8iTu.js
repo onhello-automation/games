@@ -1,0 +1,1 @@
+var e={analytics:{provider:`none`},basePath:`/games`,description:`Quick daily word, number, shape, and logic puzzles for before work or during a break.`,launchDate:`2026-11-26`,name:`Work Play`,origin:`https://onhello-automation.github.io`};export{e as t};

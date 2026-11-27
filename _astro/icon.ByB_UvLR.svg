@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <g fill="var(--color-surface)" stroke="var(--color-border)" stroke-width="2">
+    <rect x="3" y="3" width="24" height="24" rx="4" />
+    <rect x="37" y="3" width="24" height="24" rx="4" />
+    <rect x="3" y="37" width="24" height="24" rx="4" />
+    <rect x="37" y="37" width="24" height="24" rx="4" />
+  </g>
+  <circle cx="15" cy="15" r="7" fill="var(--color-gem-1)" />
+  <path d="M49 7L57 21H41Z" fill="var(--color-gem-3)" />
+  <path d="M8 42H22V56H8Z" fill="var(--color-gem-4)" />
+  <path d="M39 49Q49 42 59 49Q49 56 39 49Z" fill="var(--color-gem-2)" />
+  <path d="M34 11L30 15L34 19" fill="none" stroke="var(--color-muted)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+  <path d="M45 30L49 34L53 30" fill="none" stroke="var(--color-muted)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" />
+</svg>

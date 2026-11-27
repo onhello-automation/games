@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect x="2" y="9" width="18" height="22" rx="3" fill="var(--color-correct)" />
+  <rect x="23" y="9" width="18" height="22" rx="3" fill="var(--color-present)" />
+  <rect x="44" y="9" width="18" height="22" rx="3" fill="var(--color-absent)" />
+  <g fill="#fff" font-family="system-ui, sans-serif" font-size="15" font-weight="800" text-anchor="middle">
+    <text x="11" y="25.5">S</text>
+    <text x="32" y="25.5">T</text>
+    <text x="53" y="25.5">R</text>
+  </g>
+  <path d="M6 46H58M6 46L13 39M6 46L13 53M58 46L51 39M58 46L51 53" fill="none" stroke="var(--color-muted)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5" />
+</svg>
